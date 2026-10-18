@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit>=1.32
+plotly
+nltk
+pyspellchecker
