@@ -2,9 +2,6 @@
 
 An interactive Streamlit app that builds autocomplete and autocorrect from scratch and compares the approaches with precision, recall and speed benchmarks.
 
-**🔗 Live demo:** _add your Streamlit link here_
-
-![App screenshot](screenshots/app.png)
 
 ## ✨ Features
 - **Corpus loading:** Project Gutenberg books via NLTK, your own `.txt` file, or a tiny built-in sample
@@ -55,6 +52,14 @@ _Run the app on your corpus and add your own numbers, for example:_
 - Frequency n-grams are a strong, explainable baseline, but they only see one or two words of context.
 - Edit distance fixes most typos, but cannot catch real-word errors such as "their" vs "there".
 - Results depend heavily on corpus size and domain.
+
+
+##LIVE DEMO
+<p align="center">
+  <a href="https://autocompleteautocorrectdataanalyticspy-kv2v3x9zicb7telppciudd.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore-Live_Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white" alt="Explore Live Demo"/>
+  </a>
+</p>
 
 ## 👤 Author
 **mdamaanali-ai** · [GitHub](https://github.com/mdamaanali-ai)
